@@ -1,5 +1,4 @@
-from typing import Any
-from typing import Tuple
+# TODO: Import all of the required type annotation classes
 
 # TODO: Repair all of the program defects near the TODO markers in the following source code
 
@@ -14,9 +13,9 @@ def ordered_pair_swap(pair_one: Tuple[Any, Any], pair_two: Tuple[Any, Any]) -> T
     return (swapped_two, swapped_one)
 
 
-# create the two ordered pairs
-first_ordered_pair = ("A", 1)
-second_ordered_pair = ("B", 2)
+# TODO: create the two ordered pairs
+# The first tuple should contain ("A", 1)
+# The second tuple should contain ("B", 2)
 
 # display the original tuple of ordered pairs
 not_swapped_ordered_pairs = (first_ordered_pair, second_ordered_pair)
@@ -29,3 +28,6 @@ print(f"Swapped tuple of ordered pairs: {first_swapped_ordered_pair}")
 # TODO: extract the ordered pairs from the returned tuple and display them
 second_swapped_ordered_pair = ordered_pair_swap(first_swapped_ordered_pair[0], first_swapped_ordered_pair[1])
 print(f"Swapped (again) tuple of ordered pairs: {second_swapped_ordered_pair}")
+
+# TODO: Make sure that the program produces expected output as described at:
+# https://proactiveprogrammers.com/discrete-structures/source-code-surveys/tuple-swapping/
