@@ -1,6 +1,9 @@
 # TODO: Import all of the required type annotation classes
 
 # TODO: Repair all of the program defects near the TODO markers in the following source code
+# TODO: You need to carefully review the TODO markers and then decide whether they are
+# correct or incorrect. Ultimately, your program should produce the output described at:
+# https://proactiveprogrammers.com/discrete-structures/source-code-surveys/tuple-swapping/
 
 
 def ordered_pair_swap(pair_one: Tuple[Any, Any], pair_two: Tuple[Any, Any]) -> Tuple[Tuple[Any, Any], Tuple[Any, Any]]:
@@ -29,5 +32,5 @@ print(f"Swapped tuple of ordered pairs: {first_swapped_ordered_pair}")
 second_swapped_ordered_pair = ordered_pair_swap(first_swapped_ordered_pair[0], first_swapped_ordered_pair[1])
 print(f"Swapped (again) tuple of ordered pairs: {second_swapped_ordered_pair}")
 
-# TODO: Make sure that the program produces expected output as described at:
+# TODO: Remember, make sure that the program produces expected output as described at:
 # https://proactiveprogrammers.com/discrete-structures/source-code-surveys/tuple-swapping/
