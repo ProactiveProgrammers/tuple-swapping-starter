@@ -1,6 +1,11 @@
 # Tuple Swapping
 
-## Gregory M. Kapfhammer
+TODO: Make sure that you delete all of the TODO markers from this file and
+either delete or rephrase all of the prompts in the reflection. When you are
+finished with this reflection it should contain polished technical content that
+does not contain any spelling, grammar, or formatting mistakes.
+
+## Add Your Name Here
 
 ## Program Output
 
