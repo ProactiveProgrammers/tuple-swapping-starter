@@ -42,11 +42,6 @@ jobs:
           if: always()
           run: |
             pip install -U pip
-        # Install pipenv
-        - name: Install Pipenv
-          if: always()
-          run: |
-            pip install pipenv
         # Run the Python program
         - name: Run Python Program
           if: always()
