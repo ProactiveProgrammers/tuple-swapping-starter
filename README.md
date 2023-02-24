@@ -64,6 +64,8 @@ steps:
 - Run the provided Python script by typing the following:
   - `python source/perform-ordered-pair-swap.py`
 - Confirm that the programs are producing the expected output.
+- You can check the project description on the course web site for more details
+  about how the program should work and the output that it should produce.
 - Make sure that you can explain why the programs produce the output that they do.
 - If you have already installed the
   [GatorGrade](https://github.com/GatorEducator/gatorgrade) program that runs
