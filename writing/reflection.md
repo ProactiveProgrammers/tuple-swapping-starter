@@ -28,7 +28,7 @@ return (swapped_one, swapped_two)
 TODO: Provide at least a one-paragraph response to this question.
 TODO: Make sure that you write about each line in the source code segment.
 
-### Explain why the `perform-ordered-pair-swap` program produces the output that it does
+### Explain how and why the `perform-ordered-pair-swap` program produces the output that it does
 
 TODO: Provide at least a one-paragraph response to this prompt.
 TODO: Make sure that you write about each line in the program's output.
