@@ -61,8 +61,7 @@ steps:
   to take all of the needed steps and to complete all of the required
   deliverables.
 - Use the `cd` command to change into the directory for this repository.
-- Change into the program source code directory by typing `cd source`.
-- Run both of the provided Python scripts by typing the following:
+- Run the provided Python script by typing the following:
   - `python source/perform-ordered-pair-swap.py`
 - Confirm that the programs are producing the expected output.
 - Make sure that you can explain why the programs produce the output that they do.
